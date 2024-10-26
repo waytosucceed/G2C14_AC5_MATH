@@ -1,0 +1,69 @@
+[
+  {
+    "questionNo": 1,
+    "question": "At the restaurant they ordered 3 cookies.1 cookie was taken away. Fill the blank boxes to complete the subtraction statement.",
+    "options":["","-","1","=",""],
+    "answers": ["3","-","1","=","2"],
+    "secondImg":"./images/1.jpg"
+
+  },
+  {
+    "questionNo": 2,
+    "question": "They ordered 4 drinks. 1 drink was spilled so it was taken away.Fill in the boxes to complete the statement.",
+    "options":["4","-","","=",""],
+    "answers": ["4","-","1","=","3"],
+    "secondImg":"./images/2.jpg"
+    
+  },
+  {
+    "questionNo": 3,
+    "question": "They had 8 pieces of cake. 3 were taken away. Fill the blank boxes to complete the subtraction statement.",
+    "options":["","-","3","=",""],
+    "answers": ["8","-","3","=","5"],
+    "secondImg":"./images/3.jpg"
+  },
+  {
+    "questionNo": 4,
+    "question": "They had 7 slices of pizzas. 4 slices were taken away.Fill the blank boxes to complete the subtraction statement.",
+    "options":["","-","4","=",""],
+    "answers": ["7","-","4","=","3"],
+    "secondImg":"./images/4.jpg"
+  },
+  {
+    "questionNo": 5,
+    "question": "On their table there were  9 desserts. 5 were taken away.Fill in the blank boxes to complete the statement.",
+    "options":["9","-","","=",""],
+    "answers": ["9","-","5","=","4"],
+    "secondImg":"./images/5.jpg"
+  },
+  {
+    "questionNo": 6,
+    "question": "The restaurant had 29 menu items. 4 items got spoiled. They are left with 25 items.Fill in the box to complete the statement.",
+    "options":["","-","4","=","25"],
+    "answers": ["29","-","4","=","25"]
+  },
+  {
+    "questionNo": 7,
+    "question": "A restaurant had 24 different desserts. 19 desserts were taken away. They are left with 5 desserts.Fill in the box to complete the statement",
+    "options":["24","-","","=","5"],
+    "answers": ["24","-","19","=","5"]
+  },
+  {
+    "questionNo": 8,
+    "question": "A friend got 35 photos from the trip. 5 photos got blurred. He is left with 30 clear photos.Fill in the box to complete the statement.",
+    "options":["","-","5","=","30"],
+    "answers": ["35","-","5","=","30"]
+  },
+  {
+    "questionNo": 9,
+    "question": "The group collected 25 souvenirs from their trip. 8 souvenirs were broken. They have 17 intact souvenirs to display.Fill in the box to complete the statement.",
+    "options":["25","-","","=","17"],
+    "answers": ["25","-","8","=","17"]
+  },
+  {
+    "questionNo": 10,
+    "question": "They remembered that on their trip they made 19 sandwiches. 6 were damaged. They were left with 13 sandwiches.Fill in the box to complete the statement.",
+    "options":["","-","6","=","13"],
+    "answers": ["19","-","6","=","13"]
+  }
+]
